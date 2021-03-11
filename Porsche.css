@@ -1,0 +1,14 @@
+.btn{
+    color: black !important;
+    background-color: whitesmoke !important;
+    border-color: #dfb966 !important;
+    border-style:solid !important;
+
+}
+.btn:focus{
+    color: black !important;
+    background-color: rgb(255, 255, 255) !important;
+    border-color: #bba1a1 !important;
+    border-style:solid !important;
+
+}
